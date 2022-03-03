@@ -2,7 +2,7 @@
 
 	//Conexión
 
-	$conexionBD = @mysqli_connect('localhost', 'usuarioIAW', '1234');
+	$conexionBD = @mysqli_connect('localhost', 'jesus', '1234');
 
 
 
